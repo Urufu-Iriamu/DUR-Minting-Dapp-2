@@ -6,7 +6,7 @@ All the code in these repos was created and explained by Urufu Iriamu on the mai
 
 # DUR Mining Dapp 2.0
 
-![](https://github.com/WilliamLuppi/DURNFT-Minting-Dapp/blob/main/Banner.png)
+![](https://github.com/Urufu-Iriamu/DUR-Minting-Dapp-2/blob/main/Banner.png)
 
 This repo provides a nice and easy way for linking an existing NFT smart contract to this minting dapp. There are two ways of using this repo, you can go the simple route or the more complex one.
 
@@ -19,7 +19,7 @@ The more complex route allows you to add additional functionality if you are com
 If you are cloning the project then run this first, otherwise you can download the source code on the release page and skip this step.
 
 ```sh
-git clone https://github.com/WilliamLuppi/DURNFT-Minting-Dapp.git
+git clone https://github.com/Urufu-Iriamu/DUR-Minting-Dapp-2.git
 ```
 
 Make sure you have node.js installed so you can use npm, then run:
@@ -108,10 +108,8 @@ Or create the build if you are ready to deploy.
 npm run build
 ```
 
-Lost file
-
 Now you can host the contents of the build folder on a server.
 
 That's it! you're done.
 
-If you have any problems pls feel free to ask for help in our [🐶 Discord](https://discord.gg/Fe579jP8Pr)
+Lost file
