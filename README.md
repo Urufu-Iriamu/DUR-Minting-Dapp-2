@@ -1,20 +1,10 @@
-# Welcome to William Luppi
+# Welcome to DUR Mining Dapp 2.0
 
-![](https://github.com/WilliamLuppi/DURNFT-Minting-Dapp/blob/main/Logo.png)
+![](https://github.com/Urufu-Iriamu/Image-Library/blob/main/UrufuIriamu%20Banner%20Logo.png)
 
-All the code in these repos was created and explained by William Luppi on the main YouTube channel.
+All the code in these repos was created and explained by Urufu Iriamu on the main YouTube channel (Deleted).
 
-To find out more please visit:
-
-[📺 YouTube](https://www.youtube.com/c/WilliamLuppi)
-
-[🐶 Discord](https://discord.gg/Fe579jP8Pr)
-
-[🐦 Twitter](https://twitter.com/williamlnfts)
-
-[ℹ️ Website](https://dogsunleashednft.com)
-
-# William Luppi NFT minting dapp 🔥
+# DUR Mining Dapp 2.0
 
 ![](https://github.com/WilliamLuppi/DURNFT-Minting-Dapp/blob/main/Banner.png)
 
@@ -117,6 +107,8 @@ Or create the build if you are ready to deploy.
 ```sh
 npm run build
 ```
+
+Lost file
 
 Now you can host the contents of the build folder on a server.
 
